@@ -5,7 +5,10 @@ StudyPilot is an AI-powered academic study planner designed to help students man
 The system uses **Heuristic Search and Hill Climbing** to prioritize and organize academic tasks based on deadlines, priority, difficulty, task type, required study hours, available study time, and workload balance.
 
 ---
-
+👥 Project Team
+Project: StudyPilot – AI Study Planner
+Domain: Artificial Intelligence / Data Science
+Algorithm: Heuristic Search + Hill Climbing
 ## 🚀 Features
 
 ### 📊 Academic Dashboard
